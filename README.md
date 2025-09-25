@@ -3,7 +3,7 @@
 Technologies: React.js, Node.js, Express, MongoDB, Tailwind CSS Developed a full-stack Employee Management System enabling admins to manage employees and assign tasks, while employees can track and complete them efficiently. Implemented role-based authentication, RESTful APIs, and React Context API for secure state management. Designed a clean, responsive UI with Tailwind CSS and structured the project with reusable components for scalability and maintainability
 
 
-#  Evaluation of Proposed Improvements
+#  Evaluation of AI Improvements
 The suggested actions are correct and necessary to resolve the identified visual shortcomings. They correctly balance the use of the generic theme utility with the need for explicit, component-specific overrides.
 
 1. Shortcoming 1: Broken Task Management Table (Admin Dashboard)
